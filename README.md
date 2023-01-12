@@ -1,7 +1,7 @@
 # waduk_seloromo_gembong
 
-Nama : Afifin Ihza Ramadlan
-No: 33421002
+Nama : Muhammad Iqbal Fadhillah
+No: 33421016  
 Kelas : IK-2A
 
 ## Getting Started
